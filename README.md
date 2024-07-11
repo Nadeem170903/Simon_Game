@@ -20,7 +20,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/simon-game.git
+git clone https://github.com/Nadeem170903/simon-game.git
 Open index.html in your web browser.
 How to Play
 Press any key to start the game.
