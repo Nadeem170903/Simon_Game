@@ -3,7 +3,7 @@ Description
 The Simon Game is a classic memory game where the player must replicate a sequence of button presses. Each round, a new button is added to the sequence, challenging the player's memory. This project implements the Simon Game using HTML, CSS, and JavaScript.
 
 Demo
-[[Play Simon Game](https://Nadeem170903.github.io/Simon_Game/simon.html)]
+[[Play Simon Game](https://Nadeem170903.github.io/simon.html)]
 
 Features
 Start the game by pressing any key.
